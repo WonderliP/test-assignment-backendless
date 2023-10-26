@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_assignment_backendless=self.webpackChunktest_assignment_backendless||[]).push([[845],{845:function(e,s,n){n.r(s);var t=n(184);s.default=function(){return(0,t.jsx)("table",{children:(0,t.jsxs)("tr",{children:[(0,t.jsx)("td",{children:"Dummy"}),(0,t.jsx)("td",{children:"Chart"})]})})}}}]);
+//# sourceMappingURL=845.10ba92c8.chunk.js.map
